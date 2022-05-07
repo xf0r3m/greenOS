@@ -1,0 +1,6 @@
+--wersja 1.4:
+	* Uzupełnienie obrazów jak i archiwów o pakiet wpasupplicant.
+	* Dodanie numeru wersji do wpisów GRUB w konfiguracji EFI obrazów
+	płyt.
+	* Uzupełnienie wersji greenOS w pliku konfiguracyjnym isolinux w
+	obrazie płyty amd64.
